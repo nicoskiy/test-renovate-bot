@@ -3,8 +3,7 @@
     {
       "matchUpdateTypes": ["minor", "patch"],
       "depTypeList": ["dependencies", "devDependencies"],
-      "extends": ["config:base"],
-      "automerge": true
+      "automerge": false
     }
   ]
 }
