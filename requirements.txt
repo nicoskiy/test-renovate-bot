@@ -16,7 +16,7 @@ matplotlib==3.7.1
     # via
     #   -r requirements.in
     #   seaborn
-numpy==1.23.5
+numpy==1.26.4
     # via
     #   -r requirements.in
     #   contourpy
