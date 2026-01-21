@@ -32,7 +32,7 @@ pandas==1.5.3
     #   seaborn
 pillow==9.3.0
     # via matplotlib
-pyparsing==3.0.9
+pyparsing==3.3.2
     # via
     #   matplotlib
     #   packaging
